@@ -66,7 +66,7 @@ function mostrar(valor) {
 
 var numeros = [1,2,3,4,5];
 
-numeros.ejecutarFunction(mostrar);
+numeros.ejecutarFuncion(mostrar);
 
 /***************************************/
 //               OBJETOS
